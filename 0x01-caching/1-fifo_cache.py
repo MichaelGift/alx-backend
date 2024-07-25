@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""First-In First-Out caching module.
+"""FIFO caching
 """
 from collections import OrderedDict
 
